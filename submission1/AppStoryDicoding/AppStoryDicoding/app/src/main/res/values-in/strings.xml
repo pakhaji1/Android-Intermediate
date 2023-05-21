@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppCeritaDicoding</string>
+    <string name="logo">LogoApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Masuk</string>
+    <string name="sign_up">Mendaftar</string>
+    <string name="greetings">Selamat Datang di Story App Dicoding</string>
+    <string name="greetings_create_account">Mari buat akunmu dan berbagi ceritamu</string>
+    <string name="name">Nama</string>
+    <string name="image_story">Gambar</string>
+    <string name="description">Deskripsi</string>
+    <string name="date">Tanggal</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="add">Tambah</string>
+    <string name="logout">Keluar</string>
+    <string name="settings">Pengaturan</string>
+    <string name="empty">Cerita Kosong</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="insert_image">"Silahkan masukkan gambar"</string>
+    <string name="invalid_email">Format Email tidak sesuai</string>
+    <string name="validation_password">Passwords harus setidaknya 8 karakter</string>
+    <string name="create_account">Belum memiliki akun?</string>
+    <string name="validation_account">Sudah memiliki account?</string>
+    <string name="empty_validation">Email dan Password harus diisi</string>
+    <string name="name_empt_validation">Nama harus diisi</string>
+    <string name="invalid_emailandpass">Email dan Password Salah</string>
+    <string name="submit_button">Masukkan</string>
+    <string name="input_email">Masukkan Email</string>
+    <string name="input_pass">Masukkan Password</string>
+</resources>
